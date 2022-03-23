@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="test">
+  <Address>
+    <Street />tewtui<HouseNumber />6<FlatNumber />56</Address>
+  <Phones>
+    <MobilePhone />12345612345<FlatPhone />123456</Phones>
+</Person>
